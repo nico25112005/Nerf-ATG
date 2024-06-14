@@ -1,0 +1,9 @@
+[submodule "Nerf-ATG-Electronics"]
+	path = Nerf-ATG-Electronics
+	url = git@github.com:nico25112005/Nerf-ATG-Electronics.git
+[submodule "Nerf-ATG-App"]
+	path = Nerf-ATG-App
+	url = git@github.com:nico25112005/Nerf-ATG-App.git
+[submodule "Nerf-ATG-Firmware"]
+	path = Nerf-ATG-Firmware
+	url = git@github.com:nico25112005/Nerf-ATG-Firmware.git
