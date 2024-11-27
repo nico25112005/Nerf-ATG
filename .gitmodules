@@ -7,3 +7,6 @@
 [submodule "Nerf-ATG-Firmware"]
 	path = Nerf-ATG-Firmware
 	url = git@github.com:nico25112005/Nerf-ATG-Firmware.git
+[submodule "Nerf-ATG-Webserver"]
+	path = Nerf-ATG-Webserver
+	url = https://github.com/nico25112005/Nerf-ATG-Webserver.git
